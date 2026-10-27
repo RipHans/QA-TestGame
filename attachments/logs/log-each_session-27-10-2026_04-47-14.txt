@@ -1,0 +1,14 @@
+27-10-2026_04-47-27  | OK       | round=1    | bet=1x5     | server=0.0   | model=0.0   | drum=[[3, 1, 6], [2, 8, 5], [6, 6, 6]]
+27-10-2026_04-47-28  | MISMATCH | round=2    | bet=1x5     | server=0.0   | model=90.0  | drum=[[5, 3, 3], [6, 6, 6], [6, 6, 7]]
+27-10-2026_04-47-30  | MISMATCH | round=3    | bet=1x5     | server=0.0   | model=60.0  | drum=[[5, 5, 5], [8, 6, 6], [3, 3, 6]]
+27-10-2026_04-47-31  | OK       | round=4    | bet=1x5     | server=0.0   | model=0.0   | drum=[[6, 6, 6], [2, 5, 5], [6, 6, 4]]
+27-10-2026_04-47-33  | OK       | round=5    | bet=1x5     | server=160.0 | model=160.0 | drum=[[6, 6, 6], [6, 6, 8], [6, 6, 6]]
+27-10-2026_04-47-34  | MISMATCH | round=6    | bet=1x5     | server=40.0  | model=43.0  | drum=[[4, 4, 4], [4, 2, 8], [4, 4, 8]]
+27-10-2026_04-47-34  | OK       | round=7    | bet=1x5     | server=0.0   | model=0.0   | drum=[[5, 5, 5], [7, 7, 7], [8, 5, 5]]
+27-10-2026_04-47-36  | OK       | round=8    | bet=1x5     | server=120.0 | model=120.0 | drum=[[7, 2, 7], [7, 7, 7], [6, 6, 6]]
+27-10-2026_04-47-37  | MISMATCH | round=9    | bet=1x5     | server=60.0  | model=90.0  | drum=[[8, 6, 6], [6, 6, 8], [4, 4, 6]]
+27-10-2026_04-47-37  | MISMATCH | round=10   | bet=1x5     | server=0.0   | model=30.0  | drum=[[5, 5, 5], [6, 8, 6], [4, 6, 6]]
+
+Total win: 330 credits (denom: 1.0$)
+RTP: 760.0%
+Total mismatches: 5 out of 10 rounds

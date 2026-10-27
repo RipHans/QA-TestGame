@@ -1,0 +1,14 @@
+27-10-2026_05-16-23  | OK       | round=1    | bet=1x5     | server=0.0   | model=0.0   | drum=[[3, 1, 6], [2, 5, 5], [6, 6, 4]]
+27-10-2026_05-16-24  | MISMATCH | round=2    | bet=1x5     | server=35.0  | model=38.0  | drum=[[3, 8, 4], [2, 8, 4], [7, 8, 8]]
+27-10-2026_05-16-25  | OK       | round=3    | bet=1x5     | server=0.0   | model=0.0   | drum=[[7, 2, 7], [5, 5, 5], [6, 7, 2]]
+27-10-2026_05-16-27  | OK       | round=4    | bet=1x5     | server=30.0  | model=30.0  | drum=[[5, 3, 3], [5, 2, 5], [3, 6, 6]]
+27-10-2026_05-16-28  | OK       | round=5    | bet=1x5     | server=100.0 | model=100.0 | drum=[[3, 3, 1], [5, 3, 6], [8, 8, 8]]
+27-10-2026_05-16-28  | OK       | round=6    | bet=1x5     | server=0.0   | model=0.0   | drum=[[7, 7, 8], [8, 4, 4], [3, 6, 6]]
+27-10-2026_05-16-30  | OK       | round=7    | bet=1x5     | server=30.0  | model=30.0  | drum=[[3, 1, 6], [6, 8, 6], [4, 4, 4]]
+27-10-2026_05-16-30  | MISMATCH | round=8    | bet=1x5     | server=0.0   | model=60.0  | drum=[[7, 3, 8], [6, 6, 6], [6, 4, 4]]
+27-10-2026_05-16-31  | OK       | round=9    | bet=1x5     | server=0.0   | model=0.0   | drum=[[6, 4, 8], [5, 5, 5], [7, 2, 7]]
+27-10-2026_05-16-32  | OK       | round=10   | bet=1x5     | server=0.0   | model=0.0   | drum=[[3, 1, 6], [7, 7, 7], [3, 3, 6]]
+
+Total win: 145$ (denom: 1.0$)
+RTP: 390.0%
+Total mismatches: 2 out of 10 rounds

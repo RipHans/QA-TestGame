@@ -1,0 +1,34 @@
+{
+    "@type": "MethodInvocation",
+    "payload": {
+        "@type": "logic.api.paytable.slot.Dynamic_Help_Info_Slot",
+        "items": [
+            {
+                "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+                "icon_number": 4,
+                "wins": [
+                    {
+                        "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+                        "win": 40,
+                        "free_win": 0,
+                        "is_scatter": false
+                    },
+                    {
+                        "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+                        "win": 30,
+                        "free_win": 0,
+                        "is_scatter": false
+                    },
+                    {
+                        "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+                        "win": 40,
+                        "free_win": 0,
+                        "is_scatter": true
+                    }
+                ]
+            }
+        ]
+    },
+    "requestId": "4",
+    "method": "GET_DYNAMIC_HELP_INFO"
+}

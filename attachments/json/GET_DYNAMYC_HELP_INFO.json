@@ -1,0 +1,160 @@
+{
+  "@type": "MethodInvocation",
+  "payload": {
+    "@type": "logic.api.paytable.slot.Dynamic_Help_Info_Slot",
+    "items": [
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 1,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 750,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 550,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 2,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 200,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 100,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 3,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 60,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 50,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 4,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 40,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 30,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 40,
+            "free_win": 0,
+            "is_scatter": true
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 5,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 40,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 30,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 6,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 40,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 30,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 7,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 40,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 30,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      },
+      {
+        "@type": "logic.api.paytable.slot.paytableinfo.one_Help_Icon_Data",
+        "icon_number": 8,
+        "wins": [
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 5,
+            "free_win": 0,
+            "is_scatter": false
+          },
+          {
+            "@type": "logic.api.paytable.slot.paytableinfo.win_Item",
+            "win": 3,
+            "free_win": 0,
+            "is_scatter": false
+          }
+        ]
+      }
+    ]
+  },
+  "requestId": "4",
+  "method": "GET_DYNAMIC_HELP_INFO"
+}
